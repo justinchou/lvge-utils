@@ -1,6 +1,6 @@
 {
   "name": "lvge-utils",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Common Useful Functions Collections",
   "main": "./lib/utils.js",
   "directories": {
