@@ -1,0 +1,1 @@
+cd lib/SeedRandom/ && node-gyp configure && node-gyp build && cp build/Release/SeedRandom.node ./ && cd ../../test

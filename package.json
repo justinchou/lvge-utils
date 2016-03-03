@@ -1,0 +1,32 @@
+{
+  "name": "lvge-utils",
+  "version": "2.0.1",
+  "description": "Common Useful Functions Collections",
+  "main": "./lib/utils.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "pomelo-logger": "^0.1.7",
+    "protobufjs": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "install": "bash configure.sh",
+    "test": "mocha",
+    "test-docker": "docker-compose up ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://"
+  },
+  "keywords": [
+    "FunctionCollection",
+    "Util",
+    "Utils",
+    "Utility"
+  ],
+  "author": "Justin Chou <zhou78620051@126.com>",
+  "license": "MIT"
+}
