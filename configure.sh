@@ -1,3 +1,6 @@
+
+yum install gcc gcc-c++ libstdc++-devel -y
+
 cd lib/SeedRandom/
 node-gyp configure
 sleep 2;
