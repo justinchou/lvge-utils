@@ -1,5 +1,5 @@
 
-yum install gcc gcc-c++ libstdc++-devel -y
+yum install make gcc gcc-c++ libstdc++-devel -y
 
 cd lib/SeedRandom/
 node-gyp configure
