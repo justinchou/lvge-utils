@@ -1,6 +1,6 @@
 {
   "name": "lvge-utils",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Common Useful Functions Collections",
   "main": "./lib/utils.js",
   "directories": {
@@ -15,7 +15,7 @@
   "scripts": {
     "install": "bash configure.sh",
     "test": "mocha",
-    "test-docker": "docker-compose up ."
+    "test-docker": "docker-compose up"
   },
   "repository": {
     "type": "git",
